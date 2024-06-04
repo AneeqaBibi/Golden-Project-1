@@ -1,0 +1,12 @@
+2024-05-11T11:31:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-admin\includes\class-core-upgrader.php on line 413
+
+2024-05-11T11:35:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-admin\includes\class-core-upgrader.php on line 413
+
+2024-05-11T11:56:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\Requests\src\Transport\Curl.php on line 533
+
+2024-05-11T12:30:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\plugins\woocommerce.8.4.0\packages\woocommerce-blocks\src\Migration.php on line 109
+
+2024-05-11T12:32:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\plugins\woocommerce.8.4.0\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php on line 11
+
+2024-05-11T12:59:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php on line 604
+

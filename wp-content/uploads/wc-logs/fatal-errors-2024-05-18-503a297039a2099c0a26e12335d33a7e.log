@@ -1,0 +1,13 @@
+2024-05-18T15:51:33+00:00 CRITICAL Uncaught Error: Class "WP_Font_Library" not found in C:\Local\www\demo\wp-includes\fonts.php:79
+Stack trace:
+#0 C:\Local\www\demo\wp-includes\fonts.php(270): wp_register_font_collection('google-fonts', Array)
+#1 C:\Local\www\demo\wp-includes\class-wp-hook.php(324): _wp_register_default_font_collections('')
+#2 C:\Local\www\demo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Local\www\demo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Local\www\demo\wp-settings.php(643): do_action('init')
+#5 C:\Local\www\demo\wp-config.php(96): require_once('C:\\Local\\www\\de...')
+#6 C:\Local\www\demo\wp-load.php(50): require_once('C:\\Local\\www\\de...')
+#7 C:\Local\www\demo\wp-login.php(12): require('C:\\Local\\www\\de...')
+#8 {main}
+  thrown in C:\Local\www\demo\wp-includes\fonts.php on line 79
+

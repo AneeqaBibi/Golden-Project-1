@@ -1,0 +1,8 @@
+2024-05-12T11:47:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\widgets\class-wp-widget-text.php on line 17
+
+2024-05-12T12:36:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\plugins\elementor\modules\favorites\types\widgets.php on line 4
+
+2024-05-12T12:41:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\Requests\src\Transport\Curl.php on line 533
+
+2024-05-12T13:03:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\Requests\src\Transport\Curl.php on line 506
+

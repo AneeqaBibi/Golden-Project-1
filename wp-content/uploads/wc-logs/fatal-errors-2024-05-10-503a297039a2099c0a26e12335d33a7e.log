@@ -1,0 +1,14 @@
+2024-05-10T15:22:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\themes\astra\inc\metabox\class-astra-meta-boxes.php on line 12
+
+2024-05-10T15:26:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-content\plugins\elementskit-lite\widgets\header-search\header-search.php on line 7
+
+2024-05-10T15:27:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\functions.php on line 6805
+
+2024-05-10T15:30:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2024-05-10T17:08:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\Requests\src\Transport\Curl.php on line 533
+
+2024-05-10T17:23:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-admin\includes\class-core-upgrader.php on line 413
+
+2024-05-10T17:29:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Local\www\demo\wp-includes\Requests\src\Transport\Curl.php on line 533
+
